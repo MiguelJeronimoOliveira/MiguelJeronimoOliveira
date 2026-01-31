@@ -4,11 +4,6 @@
 - 🌱 Aprendendo mais sobre Java.
 
 <div align="center">
-
-### ⚙️ GitHub Analytics
-
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelJeronimoOliveira&theme=dark)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelJeronimoOliveira&theme=dark)
 
